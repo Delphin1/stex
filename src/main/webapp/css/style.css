@@ -1,0 +1,24 @@
+.center {
+    margin: auto;
+    width: 800px;
+}
+
+table {
+    /*font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;*/
+    width: 1024px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th {
+    border: 1px solid black;
+}
+
+tr.answered {
+    background: #fcff2a;
+}
+
+td {
+    border: 1px solid black;
+}
